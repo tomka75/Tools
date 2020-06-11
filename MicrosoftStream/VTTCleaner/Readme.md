@@ -40,5 +40,8 @@ This is inspired by the VTTCleaner web site from Marc Mroz.
 >We are in a tenant
 >with sausages.
 
+### Call
+>.\Clean-MicrosoftStreamVttFile.ps1 -File MicrosoftStreamVideoTranscriptDemo.vtt
+
 ### Output
 >Hi Microsoft Stream. Welcome to the show today on this station. We are in a tenant with sausages.
