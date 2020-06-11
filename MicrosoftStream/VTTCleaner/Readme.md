@@ -8,6 +8,7 @@ This is inspired by the VTTCleaner web site from Marc Mroz.
 
 ## Example
 ### Input
+<code>
 WEBVTT
 
 NOTE duration:"00:00:29.5060000"
@@ -39,6 +40,6 @@ NOTE Confidence: 0.5076108
 00:00:23.760 --> 00:00:27.400
 We are in a tenant
 with sausages.
-
+</code>
 ### Output
 Hi Microsoft Stream. Welcome to the show today on this station. We are in a tenant with sausages.
