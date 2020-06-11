@@ -41,5 +41,6 @@ NOTE Confidence: 0.5076108
 We are in a tenant
 with sausages.
 </code>
+
 ### Output
 Hi Microsoft Stream. Welcome to the show today on this station. We are in a tenant with sausages.
